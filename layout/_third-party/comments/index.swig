@@ -15,3 +15,5 @@
     {% include 'disqusjs.swig' %}
   {% endif %}
 {% endif %}
+
+.gt-container a{border-bottom: none;}
