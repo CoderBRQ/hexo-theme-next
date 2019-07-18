@@ -16,4 +16,3 @@
   {% endif %}
 {% endif %}
 
-.gt-container a{border-bottom: none;}
