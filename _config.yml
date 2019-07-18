@@ -150,11 +150,12 @@ baidu_push: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash from link value (/archives -> archives).
 # External url should start with http:// or https://
 menu:
-  home: / || home
-  #about: /about/ || user
-  #tags: /tags/ || tags
-  #categories: /categories/ || th
+  home: / || 首页
+  about: /about/ || 关于
+  tags: /tags/ || 标签
+  categories: /categories/ || 分类
   archives: /archives/ || archive
+  search: 搜索
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
