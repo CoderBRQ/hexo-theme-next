@@ -646,7 +646,7 @@ livere_uid: # <your_uid>
 gitalk:
   enable: true
   github_id: BRQBlog # GitHub repo owner
-  repo: CoderBRQ.github.io.git
+  repo: CoderBRQ.github.io
   client_id: baf2b7474bee6425a450
   client_secret: 0a2581900bf757235ec7b26ab61baa5bfb21cfac
   admin_user: BRQBlog # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
